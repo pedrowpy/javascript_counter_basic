@@ -9,5 +9,5 @@ function iniciarContador() {
             segundos++;
         }
         document.getElementById("contador").innerText = `Segundos: ${segundos}: ${milissegundos}`;
-    }, 10); // att
+    }, 10); // att.
 }
